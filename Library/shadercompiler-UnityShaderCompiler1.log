@@ -1,0 +1,38 @@
+Base path: '/home/galdrmann/UnityInstalls/2019.3.0f5/Editor/Data', plugins path '/home/galdrmann/UnityInstalls/2019.3.0f5/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=15 insize=18731 outsize=16403 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=18731 outsize=16408 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=18731 outsize=25702 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=18731 outsize=34002 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=18731 outsize=55830 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=1226 outsize=3324 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=1505 outsize=2168 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=5032 outsize=7819 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=5032 outsize=15628 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=1864 outsize=4091 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=3158 outsize=83695 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=3158 outsize=200276 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=11176 outsize=21989 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=2120 outsize=2092 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=2134 outsize=1304 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=3532 outsize=6169 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=3174 outsize=1307 ok=1
+Cmd: compileComputeKernel
+  api=15 insize=5591 outsize=13639 ok=1
